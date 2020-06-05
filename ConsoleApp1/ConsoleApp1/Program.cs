@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace ConsoleApp1
 {
@@ -10,6 +11,7 @@ namespace ConsoleApp1
             Console.WriteLine("test1");
             Console.WriteLine("devfunctionne 2 debug ok");
             Console.WindowHeight(3);
+            Console.Write("new function" );
 
         }
     }
