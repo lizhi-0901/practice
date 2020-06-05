@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("test1");
+            Console.WindowHeight(3);
         }
     }
 }
